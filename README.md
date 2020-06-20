@@ -41,3 +41,4 @@ This application includes no test
 
 ## Gif of Working Application
 
+![](/gif/budget_gif.gif)
